@@ -1,0 +1,160 @@
+
+
+.video{
+    text-align: center;
+    margin: 150px auto 35px;
+}
+.vid{
+    width: 100%;
+}
+.text{
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #3579F4;
+    margin-bottom: 50px;
+}
+
+.card_flex{
+    display: flex;
+    gap: 30px;
+}
+
+/*first card*/
+.first_cards{
+    margin-bottom: 25px;
+}
+.col-xl-3{
+    border: 2px solid transparent;
+    height: 250px;
+    width: 260px;
+}
+.img1{
+    background: url("../img/Mask group (5).png");
+    box-shadow: -4px 4px 16px 0px #0000001A;
+    border-radius: 20px;
+}
+.context1{
+    font-family: "Mulish", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    margin: 40px auto auto 25px;
+    width: 139px;
+}
+.img2{
+    background: url("../img/Mask group (6).png");
+    box-shadow: -4px 4px 16px 0px #0000001A;
+    border-radius: 20px;
+}
+.context2{
+    font-family: "Mulish", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    margin: 40px auto auto 25px;
+}
+.img3{
+    background: url("../img/Group 16.png") no-repeat right top;
+    box-shadow: -4px 4px 16px 0px #0000001A;
+    border-radius: 20px;
+}
+.context3{
+    font-family: "Mulish", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    margin: 40px auto auto 25px;
+}
+
+/*second card*/
+.second_cards{
+    margin-bottom: 25px;
+}
+.img4{
+    background: url("../img/Group 20.png") no-repeat right top;
+    box-shadow: -4px 4px 16px 0px #0000001A;
+    border-radius: 20px;
+}
+.context4{
+    font-family: "Mulish", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    margin: 40px auto auto 25px;
+    width: 100px;
+}
+.img5{
+    background: url("../img/Mask group (7).png");
+    box-shadow: -4px 4px 16px 0px #0000001A;
+    border-radius: 20px;
+}
+.context5{
+    font-family: "Mulish", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    margin: 40px auto auto 25px;
+}
+.img6{
+    background: url("../img/Group 15.png") no-repeat right top;
+    box-shadow: -4px 4px 16px 0px #0000001A;
+    border-radius: 20px;
+}
+.context6{
+    font-family: "Mulish", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    margin: 40px auto auto 25px;
+    width: 100px;
+}
+
+/*third card*/
+.third_cards{
+    margin-bottom: 45px;
+}
+.img7{
+    background: url("../img/Mask group (8).png");
+    box-shadow: -4px 4px 16px 0px #0000001A;
+    border-radius: 20px;
+}
+.img8{
+    background: url("../img/Mask group (9).png") no-repeat;
+    box-shadow: -4px 4px 16px 0px #0000001A;
+    border-radius: 20px;
+}
+.img9{
+    background: url("../img/Mask group (10).png") no-repeat right top;
+    box-shadow: -4px 4px 16px 0px #0000001A;
+    border-radius: 20px;
+}
+
+.hover_card:hover{
+    transition: .3s linear;
+    background-color: #3579F4;
+    color: #ffffff;
+}
+
+.services{
+    width: 312px;
+    height: 67px;
+    gap: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: #F0F0FA;
+    margin: 0 auto 140px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.link_services{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #8C8C8C;
+    text-decoration: none;
+}

@@ -1,0 +1,41 @@
+.BG{
+    background: url("../img/bg.png");
+    background-size: 100% 100%;
+    height: 780px;
+}
+.Title{
+    font-family: "Mulish", sans-serif;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 60px;
+    width: 830px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.mini_Title{
+    color: #3579F4;
+}
+.Text{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 380px;
+    margin-bottom: 50px;
+}
+.contact{
+    width: 226px;
+    height: 67px;
+    gap: 10px;
+    border-radius: 10px;
+    background-color: #3579F4;
+    border: none;
+}
+.link_contact{
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #ffffff;
+    text-decoration: none;
+}
